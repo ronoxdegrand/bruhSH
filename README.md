@@ -1,5 +1,5 @@
 # bruhSH
-WARNING: I made the whole shell in WSL, its like a VM of linux for Windows but there's some big differences apparently.
+WARNING: I made the whole shell in WSL.
 
 To execute the shell, 2 steps:
 step 1: type "make" in the terminal
